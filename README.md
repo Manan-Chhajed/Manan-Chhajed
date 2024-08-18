@@ -1,7 +1,7 @@
 
 ### Hey!! 
 
-- 👋 I’m Manan Chhajed, 3rd year Undergraduate at SPIT, Mumbai.
+- 👋 I’m Manan Chhajed, final year undergraduate at SPIT, Mumbai.
 - 💻 I love doing competitive programming and learning new algorithms.
 - 🌱 I'm exploring different fields in software development and learning new skills.
 - 📫 You can contact me through email - manan.chhajed@spit.ac.in
