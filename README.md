@@ -1,9 +1,9 @@
 
 ### Hey!
 
-- 👋 Hi! I’m Manan Chhajed, a final year undergraduate at SPIT, Mumbai.
+- 👋 I’m Manan Chhajed, a final year undergraduate at SPIT, Mumbai.
 - 💻 Passionate about competitive programming and continuously learning new algorithms.
-- 🌱 Former Software Engineering Intern at Deutsche Bank (Summer 2024), currently exploring various fields in software development.
+- 🌱 Ex SWE Intern at Deutsche Bank (Summer 2024), currently exploring various fields in software development.
 - 📧 Get in touch: manan.chhajed@spit.ac.in
 
 
