@@ -8,9 +8,7 @@
 
 
 ### My Social Media Handles
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/manan-chhajed/)
-[<img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" />](https://twitter.com/manan_c288)
-
+<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /> <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" /> <img src="https://img.shields.io/badge/Linktree-%237A42B6.svg?style=for-the-badge&logo=Linktree&logoColor=white" />
   
 ### My Coding Profiles
 [<img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" />](https://codeforces.com/profile/manan_chhajed)
